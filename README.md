@@ -1,1 +1,1 @@
-Это репозиторий для первого задания курса Rsschool.
+[https://ekaterinakolmagorova.github.io/rsschool-cv/cv](https://ekaterinakolmagorova.github.io/rsschool-cv/cv)
