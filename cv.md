@@ -20,3 +20,10 @@ for (i = 0; i < arr.length; i++) {
 }
 console.log(sum)
 ```
+## Education 
+- **University:** Federal State Autonomous Educational Institution of Higher Education “Kazan (Volga Region) Federal University”
+- **Courses:**
+## Experience
+## Languages
+- **Russian:** Native
+- **English:** Pre-Intermediate (A2)
