@@ -1,1 +1,1 @@
-[https://ekaterinakolmagorova.github.io/rsschool-cv/cv](https://ekaterinakolmagorova.github.io/rsschool-cv/cv)
+[https://ekaterinakolmagorova.github.io/rsschool-cv/](https://ekaterinakolmagorova.github.io/rsschool-cv/)
